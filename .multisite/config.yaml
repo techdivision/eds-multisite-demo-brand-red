@@ -1,5 +1,5 @@
 sites:
-  brand-a:
-    origin: https://github.com/techdivision/eds-multisite-demo-brand-a
-  brand-b:
-    origin: https://github.com/techdivision/eds-multisite-demo-brand-b
+  brand-red:
+    origin: https://github.com/techdivision/eds-multisite-demo-brand-red
+  brand-blue:
+    origin: https://github.com/techdivision/eds-multisite-demo-brand-blue
